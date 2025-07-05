@@ -43,16 +43,16 @@ Smart Doorbell is an Internet of Things (IoT) project, integrating a doorbell wi
 
 <table>
   <tr>
-    <td><img src="/_images/img1.jpg" width=400px" height="450px" alt="image1"></td>
+    <td><img src="/Smart-Doorbell/_images/img1.jpg" width=400px" height="450px" alt="image1"></td>
   </tr>
   <tr>
-    <td><img src="/_images/img2.jpg" width="430px" height="500px" alt="image3"/></td>
+    <td><img src="/Smart-Doorbell/_images/img2.jpg" width="430px" height="500px" alt="image3"/></td>
   </tr>
   <tr>
-    <td><img src="/_images/img3.jpg" width="400px" height="700px" alt="image4"/></td>
+    <td><img src="/Smart-Doorbell/_images/img3.jpg" width="400px" height="700px" alt="image4"/></td>
   </tr>
   <tr>
-    <td><img src="/_images/img4.jpg" width="400px" height="300px" alt="image2"/></td>
+    <td><img src="/Smart-Doorbell/_images/img4.jpg" width="400px" height="300px" alt="image2"/></td>
   </tr>
 </table>
 
@@ -85,7 +85,7 @@ Create a smart doorbell system that integrates face recognition technology with 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/TejasriK-888/FaceRecognition.git`
+1. Clone the repository: [`git clone https://github.com/TejasriK-888/FaceRecognition.git`](https://github.com/TejasriK-888/Smart-Doorbell-IOT-System/tree/main/FaceRecognition)
 2. Install necessary dependencies for Python.
 3. Connect the Arduino and upload the provided sketch.
 4. Run the Python script for face recognition.
